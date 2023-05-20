@@ -10,3 +10,4 @@ COMPLETED :)
 - Embedded images on each webpage.
 - Used ordered and unordered lists.
 - 'Back to homepage' link added.
+- Differing heading levels used.
